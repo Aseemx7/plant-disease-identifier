@@ -1,17 +1,10 @@
-# Annadata
+# Disease-Identifier
 
-Annadata is a full-stack cross-platform application that provides complete assistance to farmers right from sowing to harvesting.
+This is a full-stack cross-platform application that provides complete assistance to farmers right from sowing to harvesting.
 Some of its features are
 
 🎯 Using ML technology for plant disease detection from image and recommending crops to grow based on farmer's location
 
-🎯 Real-time information about soil fertility, weed risk, fire alert, weather forecast, and air quality to make the right farming decisions
-
-🎯 Detailed cost analysis of growing crop explaining investment required and potential revenue generated along with suggesting other income sources
-
-🎯 Option to buy/sell/rent farming equipment
-
-🎯 Farmers' community section having chat option, video upload, QnA, and many more other features to make our platform interactive
 
 ## Scripts
 
